@@ -32,7 +32,7 @@ The **Fruit Store** is a full-stack web application designed as an online point-
 - **Bootstrap**: For building responsive, mobile-first UIs.
 
 ### Database
-- **MongoDB**: Used to store product information, order data, and customer details.
+- **MongoDB / MongoDB atlas**: Used to store product information, order data, and customer details.
 
 ## Features
 - **View Fruits**: Displays a list of available fruits.
