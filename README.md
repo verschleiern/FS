@@ -1,4 +1,4 @@
-Here’s a detailed, tech industry-standard README file for your **Fruit Store Web Application** project. Please use the link to access the demonstration of the web app here https://verschleiern.github.io/FS/
+README file for your **Fruit Store Web Application** project. Please use the link to access the demonstration of the web app here https://verschleiern.github.io/FS/
 ---
 
 # Fruit Store Web Application
